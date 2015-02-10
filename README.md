@@ -4,6 +4,6 @@ myblog OriginalThema
 # menbers
 GIEF-hPK
 
-# The porpose
+# The purpose
 * Training of GitHub
 * Version management of the original theme
